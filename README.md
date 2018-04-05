@@ -11,12 +11,11 @@ A working build is coming soon. Until then you can set the game up in Unreal Eng
 ## How do I set this up?
 ### In Unreal Engine 4(Windows):
 1. Set up your Oculus VR system with Oculus Touch controllers. More information here https://support.oculus.com/guides/rift/latest/concepts/rgsg-2-hw-hardware-setup/<br/>
-2. Clone this repo using Git Bash<br/>
+2. Clone this repo using Git Bash
 
 ```shell
 $ git clone https://github.com/sdslabs/IITR-Shoot-Em-Up/
 ```
-Or simply download and extract the .zip file of this repository!<br/>
 3. Navigate to 'IITRSEU.uproject'<br/>
 4. Right click > Select 'Generate Visual Studio Project Files'<br/>
 5. Open 'IITRSEU.uproject'<br/>
